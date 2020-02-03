@@ -1,0 +1,26 @@
+﻿  Form1.cpp
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(502,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message : vea la declaración de 'strcpy'
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(503,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message : vea la declaración de 'strcpy'
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(464,6): warning C4101: 'gameid': variable local sin referencia
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(496,28): warning C4101: 'ex': variable local sin referencia
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(520,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h(927): message : vea la declaración de 'mbstowcs'
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(585,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message : vea la declaración de 'strcpy'
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(546,7): warning C4101: 'useridaux': variable local sin referencia
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(579,28): warning C4101: 'ex': variable local sin referencia
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(7): warning C4793: 'GetProcAddresses': función compilada como nativa :
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(7): warning C4793: 	varargs no admitidos en /clr
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(9): warning C4793: 'GetProcAddresses': función compilada como nativa :
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(9): warning C4793: 	Se encontró un elemento intrínseco no admitido en código administrado
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(19): warning C4793: 'GetProcAddresses': función compilada como nativa :
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(19): warning C4793: 	Se encontró un elemento intrínseco no admitido en código administrado
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(20): warning C4793: 'GetProcAddresses': función compilada como nativa :
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(20): warning C4793: 	Se encontró un elemento intrínseco no admitido en código administrado
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(33): warning C4793: 'GetProcAddresses': función compilada como nativa :
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(33): warning C4793: 	Se encontró un elemento intrínseco no admitido en código administrado
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(36): warning C4793: 'GetProcAddresses': función compilada como nativa :
+F:\Test\IdcLibcPlusPlus\IdcLibcPlusPlus\Form1.h(36): warning C4793: 	Se encontró un elemento intrínseco no admitido en código administrado
+LINK : fatal error LNK1104: no se puede abrir el archivo 'F:\Test\IdcLibcPlusPlus\Release\IdcLibcPlusPlus.exe'
