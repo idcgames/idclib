@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>
-    </StartArguments>
+    <StartArguments>-idcgameid 1118 -idctk bee86e5e9599c0281445da045d916e52 -idcuuid 1F88C560-D7DA-11DD-95C5-AC220BC993CC</StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
-    <StartArguments>
-    </StartArguments>
+    <StartArguments>-idcgameid 1118 -idctk 0b0a070aac45ba318a7b7c2e0be6671e -idcuuid 1F88C560-D7DA-11DD-95C5-AC220BC993CC</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>-idcgameid 1118 -idctk bee86e5e9599c0281445da045d916e52 -idcuuid 1F88C560-D7DA-11DD-95C5-AC220BC993CC</StartArguments>
   </PropertyGroup>
 </Project>
